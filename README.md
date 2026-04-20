@@ -1,11 +1,18 @@
 # Java Journey 🚀
 
-This repository contains my progress as I learn Java step by step.
+This repository documents my journey of learning Java from beginner to advanced.
 
-## Topics
-- Basics
+## 📚 Topics Covered
+- Basics (variables, loops, conditions)
 - Object-Oriented Programming (OOP)
+- Data Structures
 - Projects
 
-## Goal
-To become a proficient Java developer through consistent practice and real projects.
+## 🛠 Projects
+- (Coming soon)
+
+## 🎯 Goal
+To become a skilled Java developer through consistent practice and real-world projects.
+
+## 📅 Progress
+- Day 1: Setup repository
